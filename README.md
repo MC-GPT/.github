@@ -1,1 +1,1 @@
-# .github
+# MC-NUGU
