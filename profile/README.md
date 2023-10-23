@@ -8,8 +8,8 @@ In  addition, it  provides  a  service  that  connects  LG home appliances with 
 
 |Name|Dept|E-mail|Role|
 |:---:|:---:|:---:|:---:|
-|Kang JunGyu|Dept. of Information systems|jgpk226@gmail.com|Development Manager, Backend Developer|
-|Kim JiHoon|Dept. of Information systems|jhkimlego@gmail.com|Product Designer,AI Developer|
+|Kang JunGyu|Dept. of Information systems|jgpk226@gmail.com|Development Manager, <br/>Backend Developer|
+|Kim JiHoon|Dept. of Information systems|jhkimlego@gmail.com|Product Designer, <br/>AI Developer|
 |Park JongSu|Dept. of Information systems|qwt629@gmail.com|Frontend Developer|
 
 <br>
