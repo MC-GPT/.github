@@ -8,8 +8,8 @@ In  addition, it  provides  a  service  that  connects  LG home appliances with 
 
 |Name|Dept|E-mail|Role|
 |:---:|:---:|:---:|:---:|
-|[Kang JunGyu] (https://github.com/jgpk226)|Dept. of Information systems|jgpk226@gmail.com|Development Manager, <br/>Backend Developer|
-|[Kim JiHoon] (https://github.com/jgpk226)|Dept. of Information systems|jhkimlego@gmail.com|Product Designer, <br/>AI Developer|
-|[Park JongSu] (https://github.com/jgpk226)|Dept. of Information systems|qwt629@gmail.com|Frontend Developer|
+|[Kang JunGyu](https://github.com/jgpk226)|Dept. of Information systems|jgpk226@gmail.com|Development Manager, <br/>Backend Developer|
+|[Kim JiHoon](https://github.com/orangejoam)|Dept. of Information systems|jhkimlego@gmail.com|Product Designer, <br/>AI Developer|
+|[Park JongSu](https://github.com/wild-turkey)|Dept. of Information systems|qwt629@gmail.com|Frontend Developer|
 
 <br>
