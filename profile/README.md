@@ -11,8 +11,7 @@ In  addition, it  provides  a  service  that  connects  LG home appliances with 
 proposal
 
 ## 🔥 Demo Video
-(picture)<br>
-(youtube link)
+https://youtu.be/BhrYwG9dFmo
 
 ## 📌 Main Functions
 👉 aaaa
@@ -30,5 +29,5 @@ proposal
 
 ## 🔗 Links
 Notion : <br>
-Figma : <br>
-Youtube : <br>
+Figma : https://www.figma.com/file/xfyy1xcE2wPWb9aKeYdMPS/MC-NUGU?type=design&node-id=364%3A3249&mode=design&t=fTWysp1sUDscYntz-1 <br>
+Youtube : https://youtu.be/BhrYwG9dFmo <br>
