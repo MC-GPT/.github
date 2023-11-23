@@ -12,6 +12,9 @@ aaaa
 ## 🔥 Demo Video
 bbbb
 
+## 📌 Main Functions
+cccc
+
 ## 👨‍👨‍👧‍👧 Group Member
 |Name|Dept|E-mail|Role|
 |:---:|:---:|:---:|:---:|
