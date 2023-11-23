@@ -15,11 +15,11 @@ proposal
 https://youtu.be/BhrYwG9dFmo
 
 ## 📌 Main Functions
-👉 aaaa
+👉 MYHOME / GUEST
 
-👉 bbbb
+👉 LIGHTNING
 
-👉 cccc
+👉 PARTY GAME
 
 ## 👨‍👨‍👧‍👧 Group Member
 |Name|Dept|E-mail|Role|
