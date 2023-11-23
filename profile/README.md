@@ -10,7 +10,7 @@ In  addition, it  provides  a  service  that  connects  LG home appliances with 
 proposal
 
 ## 🔥 Demo Video
-picture
+picture<br>
 youtube link
 
 ## 📌 Main Functions
