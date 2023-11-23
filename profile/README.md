@@ -1,6 +1,6 @@
 # 🎉 MC-NUGU
 **House Party Manager**<br>- make mood by LG lighting appliances & have fun playing AI mini-games<br>
-picture<br>
+(picture)<br>
 > This project was made for the Software Engineering and AI course at Hanyang University.
 
 ## 📌 Abstract
@@ -11,8 +11,8 @@ In  addition, it  provides  a  service  that  connects  LG home appliances with 
 proposal
 
 ## 🔥 Demo Video
-picture<br>
-youtube link
+(picture(<br>
+(youtube link)
 
 ## 📌 Main Functions
 👉 aaaa
