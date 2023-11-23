@@ -1,6 +1,6 @@
 # MC-NUGU
-House Party Manager
-> **House Party Manager - make mood by LG lighting appliances & have fun playing AI mini-games**
+> **House Party Manager
+> - make mood by LG lighting appliances & have fun playing AI mini-games**
 
 ## 📌 Abstract
 The 'MC NUGU - AI speakers can be the "MC" of the party' is Icebreaker for MT, meetings, and house parties. It can also act as a party assistant in place of a human.
