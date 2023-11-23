@@ -1,6 +1,6 @@
 # 🎉 MC-NUGU
 **House Party Manager**<br>- make mood by LG lighting appliances & have fun playing AI mini-games
-> This project was made for the Software Engineering course at Hanyang University.
+> This project was made for the Software Engineering and AI course at Hanyang University.
 
 ## 📌 Abstract
 The 'MC NUGU - AI speakers can be the "MC" of the party' is Icebreaker for MT, meetings, and house parties. It can also act as a party assistant in place of a human.
