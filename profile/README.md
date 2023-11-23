@@ -24,6 +24,6 @@ cccc
 <br>
 
 ## 🔗 Links
-Notion : 
-Figma : 
-Youtube : 
+Notion : <br>
+Figma : <br>
+Youtube : <br>
