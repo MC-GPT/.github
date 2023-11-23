@@ -16,7 +16,7 @@ practice video link : https://youtu.be/BhrYwG9dFmo
 
 ## 🌟 Main Functions
 👉 MYHOME / GUEST
- will be updated
+ 
 👉 LIGHTNING
 
 👉 PARTY GAME
