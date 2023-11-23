@@ -1,5 +1,5 @@
 # MC-NUGU
-> House Party Manager
+House Party Manager
 > **House Party Manager - make mood by LG lighting appliances & have fun playing AI mini-games**
 
 ## 📌 Abstract
