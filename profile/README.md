@@ -21,7 +21,7 @@ practice video link : https://youtu.be/BhrYwG9dFmo
 
 👉 PARTY GAME
 
-## 👨‍👨‍👧‍👧 Group Member
+## 🙋🏻‍♂️ Group Member
 |Name|Dept|E-mail|Role|
 |:---:|:---:|:---:|:---:|
 |[Kang JunGyu](https://github.com/jgpk226)|Dept. of Information systems|jgpk226@gmail.com|Development Manager, <br/>Backend Developer|
