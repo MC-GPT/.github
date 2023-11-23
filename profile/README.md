@@ -7,13 +7,18 @@ The 'MC NUGU - AI speakers can be the "MC" of the party' is Icebreaker for MT, m
 In  addition, it  provides  a  service  that  connects  LG home appliances with the app and allows you to control them from the app. Key features include lightning services, the ability to adjust and  control  the  brightness  of  colors,  change  house  party  mode, and get lighting recommendations through generative AI. 
 
 ## 📌 Proposal
-aaaa
+proposal
 
 ## 🔥 Demo Video
-bbbb
+picture
+youtube link
 
 ## 📌 Main Functions
-cccc
+👉 aaaa
+
+👉 bbbb
+
+👉 cccc
 
 ## 👨‍👨‍👧‍👧 Group Member
 |Name|Dept|E-mail|Role|
