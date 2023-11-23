@@ -1,4 +1,4 @@
-# MC-NUGU
+# 🎉 MC-NUGU
 > **House Party Manager**<br>
 > **- make mood by LG lighting appliances & have fun playing AI mini-games**
 
