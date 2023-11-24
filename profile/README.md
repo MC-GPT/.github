@@ -30,5 +30,5 @@ practice video link : https://youtu.be/BhrYwG9dFmo
 
 ## 🔗 Links
 Notion : <br>
-[Figma](https://www.figma.com/file/xfyy1xcE2wPWb9aKeYdMPS/MC-NUGU?type=design&node-id=364%3A3249&mode=design&t=fTWysp1sUDscYntz-1) : UI/UX Design <br>
-[Youtube](https://youtu.be/BhrYwG9dFmo) : Demo Video <br>
+Figma : [UI/UX Design](https://www.figma.com/file/xfyy1xcE2wPWb9aKeYdMPS/MC-NUGU?type=design&node-id=364%3A3249&mode=design&t=fTWysp1sUDscYntz-1) <br>
+Youtube : [Demo Video](https://youtu.be/BhrYwG9dFmo) <br>
