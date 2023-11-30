@@ -1,6 +1,7 @@
-# 🎉 MC-NUGU
+# 🎉 MC-GPT
 **House Party Manager**<br>- make mood by LG lighting appliances & have fun playing AI mini-games<br><br>
-![Cover](https://github.com/MC-NUGU/.github/assets/88271395/294a1f3e-ba44-4d51-ab95-94c69f4b3318)<br>
+![Cover](https://github.com/MC-NUGU/.github/assets/88271395/86274900-afac-4cf5-8f00-02f65daf36c0)<br>
+
 
 > This project was made for the Software Engineering and AI course at Hanyang University.
 
