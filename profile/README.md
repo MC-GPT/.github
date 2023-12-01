@@ -32,4 +32,4 @@ In conclusion, our team hopes to provide appliance control along with a game fun
 ## 🔗 Links
 Notion : <br>
 Figma : [UI/UX Design](https://www.figma.com/file/xfyy1xcE2wPWb9aKeYdMPS/MC-NUGU?type=design&node-id=364%3A3249&mode=design&t=fTWysp1sUDscYntz-1) <br>
-Youtube : [Demo Video]((https://youtu.be/4KXLQRgrFK4?feature=shared) <br>
+Youtube : [Demo Video](https://youtu.be/4KXLQRgrFK4?feature=shared) <br>
