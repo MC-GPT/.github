@@ -30,6 +30,6 @@ In conclusion, our team hopes to provide appliance control along with a game fun
 |[Park JongSu](https://github.com/orangejoam)|Dept. of Information systems|qwt629@gmail.com|Frontend Developer, <br/>UI/UX Designer|
 
 ## 🔗 Links
-Notion : <br>
+Notion : [Tech Blog](https://mc-gpt.notion.site/MC-GPT-d780fa5713bc4b0e88a0c9328e2fa0ea) <br>
 Figma : [UI/UX Design](https://www.figma.com/file/xfyy1xcE2wPWb9aKeYdMPS/MC-NUGU?type=design&node-id=364%3A3249&mode=design&t=fTWysp1sUDscYntz-1) <br>
 Youtube : [Demo Video](https://youtu.be/4KXLQRgrFK4?feature=shared) <br>
