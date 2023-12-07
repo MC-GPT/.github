@@ -5,7 +5,7 @@
 
 > This project was made for the Software Engineering and AI course at Hanyang University.
 ## 🔥 Demo Video
-practice video link : [Youtube](https://youtu.be/4KXLQRgrFK4?feature=shared)
+[Youtube](https://www.youtube.com/watch?v=JcmK1M1cM7c)
 
 ## 📌 Abstract
 Our team is focusing on providing an application service for making up the mood of parties that are hosted at homes and shared spaces. We plan developing lighting & appliance control, multiplayer games and space management functions, available to all participants for an entertaining party.
@@ -32,4 +32,4 @@ In conclusion, our team hopes to provide appliance control along with a game fun
 ## 🔗 Links
 Notion : [Tech Blog](https://mc-gpt.notion.site/MC-GPT-d780fa5713bc4b0e88a0c9328e2fa0ea) <br>
 Figma : [UI/UX Design](https://www.figma.com/file/xfyy1xcE2wPWb9aKeYdMPS/MC-NUGU?type=design&node-id=364%3A3249&mode=design&t=fTWysp1sUDscYntz-1) <br>
-Youtube : [Demo Video](https://youtu.be/4KXLQRgrFK4?feature=shared) <br>
+Youtube : [Demo Video](https://www.youtube.com/watch?v=JcmK1M1cM7c) <br>
