@@ -1,11 +1,13 @@
-# 🎉 MC-GPT
+![최종](https://github.com/MC-NUGU/.github/assets/88271395/b85c2a63-1734-442d-90b6-8f57662cdbaa)# 🎉 MC-GPT
 **House Party Manager**<br>- make mood by LG lighting appliances & have fun playing AI mini-games<br><br>
 ![NewNew cover](https://github.com/MC-NUGU/.github/assets/88271395/44750937-e900-445b-bfe3-6dd6c58669c8)<br>
 
 
 > This project was made for the Software Engineering and AI course at Hanyang University.
 ## 🔥 Demo Video
-[![Youtube](https://img.youtube.com/vi/_O9mpeIP9cw/0.jpg)](https://youtu.be/_O9mpeIP9cw)
+[![Youtube](https://github.com/MC-NUGU/.github/assets/88271395/182919a5-eb4e-40e1-9929-d18475511209)](https://youtu.be/_O9mpeIP9cw)
+
+
 
 ## 📌 Abstract
 Our team is focusing on providing an application service for making up the mood of parties that are hosted at homes and shared spaces. We plan developing lighting & appliance control, multiplayer games and space management functions, available to all participants for an entertaining party.
