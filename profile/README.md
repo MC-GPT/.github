@@ -5,7 +5,7 @@
 
 > This project was made for the Software Engineering and AI course at Hanyang University.
 ## 🔥 Demo Video
-[Youtube](https://youtu.be/_O9mpeIP9cw)
+[![Youtube](https://img.youtube.com/vi/_O9mpeIP9cw/0.jpg)](https://youtu.be/_O9mpeIP9cw)
 
 ## 📌 Abstract
 Our team is focusing on providing an application service for making up the mood of parties that are hosted at homes and shared spaces. We plan developing lighting & appliance control, multiplayer games and space management functions, available to all participants for an entertaining party.
