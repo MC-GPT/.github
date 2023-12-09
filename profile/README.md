@@ -4,7 +4,7 @@
 
 
 > This project was made for the Software Engineering and AI course at Hanyang University.
-## 🔥 Demo Video
+## 🔥 Demo Video (⬇️ click!! ⬇️)
 [![Youtube](https://github.com/MC-NUGU/.github/assets/88271395/182919a5-eb4e-40e1-9929-d18475511209)](https://youtu.be/_O9mpeIP9cw)
 
 
