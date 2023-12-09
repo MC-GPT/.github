@@ -1,4 +1,4 @@
-![최종](https://github.com/MC-NUGU/.github/assets/88271395/b85c2a63-1734-442d-90b6-8f57662cdbaa)# 🎉 MC-GPT
+# 🎉 MC-GPT
 **House Party Manager**<br>- make mood by LG lighting appliances & have fun playing AI mini-games<br><br>
 ![NewNew cover](https://github.com/MC-NUGU/.github/assets/88271395/44750937-e900-445b-bfe3-6dd6c58669c8)<br>
 
