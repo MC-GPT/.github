@@ -18,11 +18,11 @@ Finally, space owners can control their spaces by using a unique code generated 
 In conclusion, our team hopes to provide appliance control along with a game function that will reduce the tasks required by party hosts, resulting in a more seamless party and help all participants leave with a memorable party experience.
 
 ## 🌟 Main Functions
-👉 MY HOME / GUEST
+👉 Space Separation : MY HOME / GUEST
  
-👉 LIGHTING Appliances
+👉 LIGHTING Appliances Control
 
-👉 AI MINI-GAME
+👉 AI MINI-GAMEs
 
 ## 🙋🏻‍♂️ Group Member
 |Name|Dept|E-mail|Role|
