@@ -24,6 +24,10 @@ In conclusion, our team hopes to provide appliance control along with a game fun
 
 👉 AI MINI-GAMEs
 
+## 💻 Architecture Design
+![스크린샷 2023-12-04 오후 9 39 23](https://github.com/MC-GPT/.github/assets/88271395/19dee2a7-faf3-4cf0-8bdd-c127a4ec442f)
+
+
 ## 🙋🏻‍♂️ Group Member
 |Name|Dept|E-mail|Role|
 |:---:|:---:|:---:|:---:|
