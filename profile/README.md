@@ -20,7 +20,7 @@ In conclusion, our team hopes to provide appliance control along with a game fun
 ## 🌟 Main Functions
 👉 Space Separation : MY HOME / GUEST
  
-👉 LIGHTING Appliances Control
+👉 LIGHTING Appliances Control / Appliances lock for party host
 
 👉 AI MINI-GAMEs
 
